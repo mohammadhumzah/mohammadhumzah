@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Mohammad Humzah</h1>
-- 🔭 I’m currently working on [BrainRotAI](https://github.com/mohammadhumzah/BrainRotAI)
+- 🔭 Undergrad at NIT Srinagar
 
-- 🌱 I’m currently learning **SQL, Pandas and DSA**
+- 🌱 I’m currently learning **SQL and DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@hesisanthumzah](https://medium.com/@hesisanthumzah)
 
