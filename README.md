@@ -1,5 +1,5 @@
 # 💫 About Me:
-Humzah here, Undergrad student, currently working on an SQL based project.<br>Parallely  learning Data Structures and Algorithms<br>Previously worked on BrainRotAI <br>Fun fact: Cats over code 🐈.
+Humzah here, Undergrad student, currently working on an SQL based project.<br>Parallely  learning Data Structures and Algorithms.<br>Previously worked on BrainRotAI. <br>Fun fact: Cats over code 🐈.
 
 
 ## 🌐 Socials:
