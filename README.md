@@ -1,5 +1,5 @@
 # 💫 About Me:
-Evolving <br>Fun fact: Cats over code 🐈.
+Evolving 🧠 <br>Fun fact: Cats over code 🐈.
 
 
 ## 🌐 Socials:
