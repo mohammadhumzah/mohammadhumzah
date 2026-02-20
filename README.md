@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, Humzah here. 'Breaking Bad' stuff<br><br>I write code and pet cats 🐈. Sometimes in that order
+Hey, Humzah here. 'Breaking Bad' habits<br><br>I write code and pet cats 🐈. Sometimes in that order
 
 
 ## 🌐 Socials:
