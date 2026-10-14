@@ -8,20 +8,16 @@
 
 <h2>Stack</h2>
 
-<hr>
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,py,docker&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Git, Python, Docker">
 </p>
 
 <h2>Stats</h2>
 
-<hr>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohammadhumzah&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16&hide_title=true&hide=contribs" alt="GitHub stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammadhumzah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16&hide_title=true&hide=contribs" alt="GitHub stats" width="100%">
     </td>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhumzah&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_radius=16&hide_title=true&langs_count=6" alt="Top languages" width="100%">
