@@ -1,21 +1,36 @@
-# 💫 About Me:
-'Breaking Bad' habits<br><br>I write code and pet cats 🐈. Sometimes in that order
+<img src="./assets/header.svg" alt="Mohammad Humzah — i write code and pet cats, sometimes in that order." width="100%">
 
+<p>
+  <a href="https://www.linkedin.com/in/mohammadhumzah"><img src="./assets/linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://www.youtube.com/@mohammadhumzah16"><img src="./assets/youtube.svg" alt="YouTube" height="44"></a>
+  <a href="mailto:halwaihamza771@gmail.com"><img src="./assets/email.svg" alt="Email" height="44"></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadhumzah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mohammadhumzah6236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halwaihamza771@gmail.com) 
+<img src="./assets/divider-stack.svg" alt="stack" width="100%">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammadhumzah&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohammadhumzah&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhumzah&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,py,docker&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Git, Python, Docker">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammadhumzah&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
+<img src="./assets/divider-stats.svg" alt="stats" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=mohammadhumzah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammadhumzah&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16&hide_title=true&hide=contribs" alt="GitHub stats" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhumzah&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_radius=16&hide_title=true&langs_count=6" alt="Top languages" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://streak-stats.demolab.com/?user=mohammadhumzah&hide_border=true&background=0d1117&ring=8ec5ff&fire=8ec5ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8ec5ff&sideLabels=8b949e&dates=8b949e&border_radius=16" alt="Contribution streak" width="100%">
+    </td>
+    <td valign="top">
+      <a href="https://github.com/mohammadhumzah/REPO_NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhumzah&repo=REPO_NAME&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16" alt="Most contributed repository" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
