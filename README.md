@@ -6,13 +6,17 @@
   <a href="mailto:halwaihamza771@gmail.com"><img src="./assets/email.svg" alt="Email" height="44"></a>
 </p>
 
-<img src="./assets/divider-stack.svg" alt="stack" width="100%">
+<h2>Stack</h2>
+
+<hr>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,py,docker&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Git, Python, Docker">
 </p>
 
-<img src="./assets/divider-stats.svg" alt="stats" width="100%">
+<h2>Stats</h2>
+
+<hr>
 
 <table>
   <tr>
@@ -29,7 +33,7 @@
     </td>
     <td valign="top">
       <a href="https://github.com/mohammadhumzah/WebDev-0-100-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhumzah&repo=WebDev-0-100-&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16" alt="Most contributed repository" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhumzah&repo=WebDev-0-100-&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16" alt="WebDev-0-100 repository" width="100%">
       </a>
     </td>
   </tr>
