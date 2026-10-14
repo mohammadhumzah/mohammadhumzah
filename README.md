@@ -28,8 +28,8 @@
       <img src="https://streak-stats.demolab.com/?user=mohammadhumzah&hide_border=true&background=0d1117&ring=8ec5ff&fire=8ec5ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8ec5ff&sideLabels=8b949e&dates=8b949e&border_radius=16" alt="Contribution streak" width="100%">
     </td>
     <td valign="top">
-      <a href="https://github.com/mohammadhumzah/REPO_NAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhumzah&repo=REPO_NAME&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16" alt="Most contributed repository" width="100%">
+      <a href="https://github.com/mohammadhumzah/WebDev-0-100-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhumzah&repo=WebDev-0-100-&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8ec5ff&border_radius=16" alt="Most contributed repository" width="100%">
       </a>
     </td>
   </tr>
